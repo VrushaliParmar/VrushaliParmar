@@ -7,7 +7,7 @@
 - E-mail: [ vrushliparmar@gmail.com]
 - LinkedIn:[ https://www.linkedin.com/in/vrushali-parmar-22694b29a/ ]
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: I dont wanted to code before but now I am enjoying this
+- ⚡ Fun fact: I didn't want to code, but now I'm enjoying it.
 
 - I'm a 2nd-year electronics and telecommunication engineering student with a growing interest in web development and data analysis.
 -  Always curious to learn new technologies, I enjoy working on collaborative projects and solving problems through code.
