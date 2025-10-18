@@ -8,7 +8,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://i.pinimg.com/1200x/58/c4/38/58c43830365d8fb2eab1a612a64d7c4e.jpg](https://i.pinimg.com/736x/a4/be/2d/a4be2d9b169649eae96098785afad294.jpg)" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/a4/be/2d/a4be2d9b169649eae96098785afad294.jpg" alt="Banner" width="100%" />
 </p>
 
 👋 Hi, I'm **Vrushali Parmar**  
