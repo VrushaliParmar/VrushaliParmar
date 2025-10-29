@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cadence%20Virtuoso-CC0000?style=for-the-badge&logo=cadence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microwind-0080FF?style=for-the-badge&logo=electronics&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </details>
 </div>
 
