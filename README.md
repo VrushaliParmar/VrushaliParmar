@@ -115,7 +115,8 @@
   <br>
 
 - 📧 [vrushliparmar@gmail.com](mailto:vrushliparmar@gmail.com)  
-- 💻 [GitHub – VrushaliParmar](https://github.com/VrushaliParmar)  
+- 💻 [GitHub – VrushaliParmar](https://github.com/VrushaliParmar)
+- 📧 [LinkedIn - Vrushali Parmar]([mailto:vrushliparmar@gmail.com](https://www.linkedin.com/in/vrushali-parmar-259669397?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuEE1S7KaTFaVG8J1jX0FEA%3D%3D))  
 
 </details>
 </div>
