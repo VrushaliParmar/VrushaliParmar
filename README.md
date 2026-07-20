@@ -1,244 +1,141 @@
-<h1 align="center">Hi 👋, I'm Vrushali Parmar</h1>
+# Hi 👋, I'm Vrushali Parmar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;VLSI+%7C+Software+Developer;Machine+Learning+Enthusiast;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=24&center=true&vCenter=true&width=650&lines=Electronics+%26+Telecommunication+Engineer;VLSI+Designer+%7C+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Bridging+Hardware+and+Software;Always+Learning+%7C+Always+Building&color=7AA2F7" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vrushali-parmar-259669397" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vrushliparmar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/VrushaliParmar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="banner.png" width="600" alt="Vrushali Parmar Profile Banner" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="banner.png" width="900"/>
+## 👩‍💻 About Me
+
+I am a **B.Tech Electronics & Telecommunication Engineering** student at **MKSSS's Cummins College of Engineering for Women, Pune**. 
+
+My technical passion thrives at the intersection of **hardware design (VLSI)** and **artificial intelligence**. Alongside my coursework in microelectronics, I actively study AI foundations, build intelligent software systems, and design tools to automate real-world processes.
+
+* **💻 Software Developer & AI Builder:** Solving DSA challenges, building NLP-driven web applications, and experimenting with conversational agent architectures.
+* **🔬 VLSI & CMOS:** Researching low-power flip-flops and dynamic switching layout efficiency.
+* **🧠 AI Theory & Practice:** Exploring RAG (Retrieval-Augmented Generation), pipeline building with Hugging Face models, and standard machine learning patterns.
+
+---
+
+## 🛠️ Technical Stack & Skills
+
+### 💻 Programming Languages & Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,nodejs&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="ML Stack" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blueviolet?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/AI_Theory-Foundations-green?style=flat-square" alt="AI Theory" />
+  <img src="https://img.shields.io/badge/Speech_To_Text-Voice_Processing-orange?style=flat-square" alt="Speech-to-Text" />
+</p>
+
+### 🔬 Electronics & VLSI Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge&logo=intel&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/Cadence_Virtuoso-Analog_Design-orange?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence Virtuoso" />
+  <img src="https://img.shields.io/badge/Microwind-Layout-green?style=for-the-badge" alt="Microwind" />
+  <img src="https://img.shields.io/badge/MATLAB-Simulation-red?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 🚀 Featured Projects & Research
 
-🎓 **B.Tech Electronics & Telecommunication Engineering**  
-📍 Cummins College of Engineering for Women, Pune  
+### 🏛️ AI-Powered Smart Complaint Management System
+* **Objective:** Developed a dual-portal public grievance resolution application supporting multi-department filtering (Electricity, Water, Municipal, etc.).
+* **Core Logic & Roles:**
+  - **Complainer Portal:** Allows citizens to submit complaints with name, email, address, and description. Supports **both text and voice-based complaint input** for enhanced accessibility.
+  - **Authority Portal:** Dynamic dashboard for administrators featuring detailed tables showing all complainer info, description, and status tracking.
+* **Key Features:** Real-time ticket updates, voice-to-text processing, and ticket lifecycle tracking (**Pending, In Progress, Resolved**).
+* **Tech Stack:** AI Speech APIs, NLP pre-processing, **Supabase** (Database, Auth, and Storage).
 
-💡 Passionate about:
-
-- VLSI Design & Low Power CMOS Circuits  
-- Software Development  
-- Machine Learning & Data Analytics  
-- Building projects that create real impact  
-
-✨ *Exploring the intersection of hardware, software, and intelligent systems.*
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VrushaliParmar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrushaliParmar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=VrushaliParmar&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<details>
-<summary>⚙️ Technical Skills</summary>
-
-<br>
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
-
-### Data Science & ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-- Machine Learning  
-- Data Analysis  
-- Data Visualization  
-
-### Electronics & VLSI Tools
-
-- Verilog  
-- Cadence Virtuoso  
-- Microwind  
-- MATLAB  
-
-</details>
-
----
-
-<details>
-<summary>🎓 Education</summary>
-
-<br>
-
-**B.Tech – Electronics & Telecommunication Engineering**  
-MKSSS's Cummins College of Engineering for Women, Pune  
-
-CGPA: **7.86 / 10**
-
-**12th – HSC (Science)**  
-Nemsushil Junior College, Taloda  
-
-Percentage: **90.60%**
-
-**10th – SSC**  
-Shreemoti Vidyamandir, Taloda  
-
-Percentage: **90.40%**
-
-</details>
-
----
-
-<details>
-<summary>🚀 Projects & Research</summary>
-
-<br>
-
-### 🔬 Research on Low Power Flip-Flops (Ongoing)
-
-Designing **energy-efficient flip-flops using CMOS logic families**.
-
-Goal:
-- Reduce dynamic power consumption
-- Improve switching efficiency in VLSI circuits
-
-Tools Used:
-
-- Cadence Virtuoso
-- CMOS Design Techniques
-
----
+### 🔬 Low Power Flip-Flop Research (Ongoing)
+* **Objective:** Design energy-efficient flip-flops using advanced CMOS logic families to reduce dynamic power consumption and switching overhead in VLSI circuits.
+* **Technologies:** Cadence Virtuoso, CMOS circuit layout and design rules.
+* **Impact:** Contributes to energy-efficient silicon architecture.
 
 ### 🧠 Mental Health Trend Analysis using NLP
-
-Analyzing **Reddit & Twitter data** to identify:
-
-- Mental health patterns
-- User sentiment
-- Coping strategies
-
-Tech Stack:
-
-- Python
-- NLP
-- Machine Learning
-- Data Visualization
-
----
+* **Objective:** Analyze public sentiment, coping strategies, and mental health patterns from Reddit and Twitter data.
+* **Technologies:** Python, NLP libraries, Machine Learning, Data Visualization.
 
 ### 🤖 LeetCode Daily Problem Telegram Bot
-
-Automated bot that sends **daily LeetCode challenges** to Telegram.
-
-Features:
-
-- Automatic daily scheduling
-- API based problem fetching
-- Telegram Bot integration
-
-Tech Stack:
-
-- Node.js
-- Telegram Bot API
-- LeetCode API
-
-</details>
+* **Objective:** Automatically fetch and schedule the delivery of daily LeetCode challenges to a Telegram channel.
+* **Technologies:** Node.js, Telegram Bot API, LeetCode GraphQL API.
 
 ---
 
-<details>
-<summary>🌱 Campus Involvement</summary>
+## 📈 GitHub Statistics & Activity
 
-<br>
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=VrushaliParmar&show_icons=true&theme=tokyonight&hide_border=true" alt="Vrushali's GitHub stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VrushaliParmar&layout=compact&theme=tokyonight&hide_border=true" alt="Vrushali's Top Langs" />
+</p>
 
-**ACM Student Chapter – Content Team Member**
-
-- Created technical posts and educational content
-- Supported club events and initiatives
-
----
-
-**Happy Hours Club – Happiness Team**
-
-- Organized mental wellness events
-- Promoted positivity and student wellbeing
-
-</details>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VrushaliParmar&theme=tokyonight&hide_border=true" alt="Vrushali's GitHub Streak" />
+</p>
 
 ---
 
-<details>
-<summary>📜 Certifications</summary>
+## 🎓 Education & Certifications
 
-<br>
+### Education
+* 🎓 **B.Tech in Electronics & Telecommunication Engineering**  
+  *MKSSS's Cummins College of Engineering for Women, Pune* | **CGPA: 7.86 / 10**  
+* 🏫 **12th Grade — HSC (Science)**  
+  *Nemsushil Junior College, Taloda* | **Percentage: 90.60%**  
+* 🏫 **10th Grade — SSC**  
+  *Shreemoti Vidyamandir, Taloda* | **Percentage: 90.40%**
 
-**Data Analytics Job Simulation**  
-Accenture North America (Forage)
-
-Skills gained:
-
-- Data Cleaning
-- Data Visualization
-- Business Insights
-
-</details>
+### Certifications
+* 📜 **Data Analytics Job Simulation** — Accenture North America (via Forage)  
+  *Skills gained:* Data Cleaning, Visualizations, and Extracting Business Insights.
 
 ---
 
-<details>
-<summary>📚 Currently Learning</summary>
+## 🎯 2026 Goals & Learning Journey
 
-<br>
+### Current Focus
+* 📚 Data Structures & Algorithms (C++)
+* 🔌 CMOS Circuit Design & VLSI Architecture
+* 🤖 Deepening knowledge in LLM Fine-Tuning & Agentic RAG workflows
 
-- Data Structures & Algorithms (C++)
-- Digital Electronics
-- CMOS Circuit Design
-- VLSI Architecture
-- Machine Learning Projects
-
-</details>
-
----
-
-<details>
-<summary>🎯 2026 Goals</summary>
-
-<br>
-
-- Build **2 strong placement projects**
-- Master **DSA for technical interviews**
-- Publish **VLSI research work**
-- Contribute to **open source projects**
-- Solve **300+ coding problems**
-
-</details>
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**  
-vrushliparmar@gmail.com  
-
-🔗 **LinkedIn**  
-https://www.linkedin.com/in/vrushali-parmar-259669397/
-
-💻 **GitHub**  
-https://github.com/VrushaliParmar
+### Milestones for 2026
+- [ ] Build **2 strong placement-ready projects**
+- [ ] Complete **300+ coding challenges** on LeetCode/GFG
+- [ ] Publish **VLSI Research Work** on low-power flip-flops
+- [ ] Contribute to **Open Source** repositories
 
 ---
 
 <p align="center">
-
-✨ *“Driven by curiosity, grounded in learning, and always ready to build something meaningful.”*
-
+  <i>"Driven by curiosity, grounded in learning, and always ready to build something meaningful."</i>
 </p>
